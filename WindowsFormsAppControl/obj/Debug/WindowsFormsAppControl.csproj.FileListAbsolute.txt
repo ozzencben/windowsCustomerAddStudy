@@ -1,0 +1,11 @@
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\bin\Debug\WindowsFormsAppControl.exe.config
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\bin\Debug\WindowsFormsAppControl.exe
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\bin\Debug\WindowsFormsAppControl.pdb
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.csproj.AssemblyReference.cache
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.Form1.resources
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.Properties.Resources.resources
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.csproj.GenerateResource.cache
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.csproj.CoreCompileInputs.cache
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.exe
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.pdb
+C:\Users\GG\Desktop\C#\WindowsFormsAppControl\obj\Debug\WindowsFormsAppControl.Add_Form_Record_Preview.resources
